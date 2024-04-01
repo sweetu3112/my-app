@@ -1,6 +1,5 @@
 {
-    "en":{
-        "welcomeMessage": "Welcome!",
+    "en":{        "welcomeMessage": "Welcome!",
         "normalMessage": "We hope you enjoy learning React.",
         "greetingMessage": "Have a great day!"
     },
